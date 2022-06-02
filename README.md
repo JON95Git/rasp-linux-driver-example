@@ -1,5 +1,5 @@
 ## Rasperry Pi - Linux driver example
-A simple example of to create a Linux device driver and load it on the Raspberry Pi 3.
+A simple example of how to create a Linux device driver and load it on the Raspberry Pi 3.
 
 ### Dependencies
 
